@@ -14,6 +14,84 @@
 	* chase after God with an **undivided heart**
 
 ---
+<span class="ref">25</span>
+Now about virgins:
+
+I have no command from the Lord, <br/>
+but I give a judgment as one <br/>
+who by the Lord’s mercy is trustworthy.
+
+---
+26
+Because of the present crisis, <br/>
+I think that it is good for a man to remain as he is.
+
+27
+Are you pledged to a woman? <br/>
+Do not seek to be released.
+
+Are you free from such a commitment? <br/>
+Do not look for a wife.
+
+---
+28
+But if you do marry, you have not sinned; <br/>
+and if a virgin marries, she has not sinned.
+
+But those who marry  <br/>
+will face many troubles in this life, <br/>
+and I want to spare you this.
+
+---
+29
+What I mean, brothers and sisters, <br/>
+is that the time is short.
+
+From now on those who have wives <br/>
+should live as if they do not;
+
+---
+30
+those who mourn, as if they did not; <br/>
+those who are happy, as if they were not; <br/>
+those who buy something, <br/>
+as if it were not theirs to keep;
+31
+those who use the things of the world, <br/>
+as if not engrossed in them.
+
+For this world in its present form is passing away.
+
+---
+32
+I would like you to be free from concern.
+
+An unmarried man is concerned about <br/>
+the Lord’s affairs — how he can please the Lord.
+
+33
+But a married man <br/>
+is concerned about the affairs of this world — <br/>
+how he can please his wife — <br/>
+34
+and his interests are divided.
+
+---
+An unmarried woman or virgin <br/>
+is concerned about the Lord’s affairs: <br/>
+Her aim is to be devoted to the Lord <br/>
+in both body and spirit.
+
+But a married woman <br/>
+is concerned about the affairs of this world — <br/>
+how she can please her husband.
+
+---
+35
+I am saying this for your own good, <br/>
+not to restrict you, <br/>
+but that you may live in a right way <br/>
+in undivided devotion to the Lord.
 
 >>>
 * counsel of Paul as pastor, mentor
