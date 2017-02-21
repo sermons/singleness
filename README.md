@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Singleness in the End Times
+## 1 Corinthians 7:25-35
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Build status](https://travis-ci.org/sermons/singleness.svg)](https://travis-ci.org/sermons/singleness)
+[![Node deps](https://david-dm.org/sermons/singleness.svg)](https://david-dm.org/sermons/singleness)
+[![Node devDeps](https://david-dm.org/sermons/singleness/dev-status.svg)](https://david-dm.org/sermons/singleness#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
