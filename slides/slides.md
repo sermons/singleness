@@ -22,11 +22,11 @@ but I give a **judgment** as one <br/>
 who by the Lord’s mercy is **trustworthy**.
 
 ---
-26
+<span class="ref">26</span>
 Because of the **present crisis**, <br/>
 I think that it is good for a man to **remain** as he is.
 
-27
+<span class="ref">27</span>
 Are you **pledged** to a woman? <br/>
 Do not seek to be **released**.
 
@@ -34,7 +34,7 @@ Are you **free** from such a commitment? <br/>
 Do not **look** for a wife.
 
 ---
-28
+<span class="ref">28</span>
 But if you do **marry**, you have **not sinned**; <br/>
 and if a virgin marries, she has not sinned.
 
@@ -43,7 +43,7 @@ will face **many troubles** in this life, <br/>
 and I want to **spare** you this.
 
 ---
-29
+<span class="ref">29</span>
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
 
@@ -51,31 +51,31 @@ From now on those who **have** wives <br/>
 should live as if they **do not**;
 
 ---
-30
+<span class="ref">30</span>
 those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not;
 
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
-31
+<span class="ref">31</span>
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
 For this **world** in its present form is **passing away**.
 
 ---
-32
+<span class="ref">32</span>
 I would like you to be **free from concern**.
 
 An **unmarried man** is concerned about <br/>
 the **Lord’s affairs** — how he can please the Lord.
 
-33
+<span class="ref">33</span>
 But a **married man** <br/>
 is concerned about the **affairs of this world** — <br/>
 how he can please his **wife** — <br/>
-34
+<span class="ref">34</span>
 and his interests are **divided**.
 
 ---
@@ -89,7 +89,7 @@ is concerned about the **affairs of this world** — <br/>
 how she can please her **husband**.
 
 ---
-35
+<span class="ref">35</span>
 I am saying this for your **own good**, <br/>
 not to **restrict** you, <br/>
 but that you may live in a **right** way <br/>
