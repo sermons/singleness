@@ -107,7 +107,6 @@ in **undivided devotion** to the Lord.
 ---
 
 >>>
-CONTENTED 25-28
 * As you were when you were called 
 	* 17 as God apportioned to you 
 	* 20 in this remain 
@@ -129,8 +128,6 @@ CONTENTED 25-28
 ---
 
 >>>
-HAVING but not HOLDING
-29-31
 * 29 the time is short: wrapped up, cut short 
 
 ---
