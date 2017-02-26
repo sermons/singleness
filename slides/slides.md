@@ -10,11 +10,11 @@
 <!-- .element: style="color: rgba(0,0,0,0.2)" -->
 
 >>>
-* new parents: enter new club
-	* youth: want to "level up" to next stage of life
-* devote yourself to God in the *now*, not the *someday*
-	* don't chase after bf/gf, marriage, grades, career: these will disappoint
-	* chase after God with an **undivided heart**
++ youth: want to "level up" to next stage of life
+  + college, work, marriage, children, ...
++ devote yourself to God in the *now*, not the *someday*
+	+ don't chase after bf/gf, marriage, grades, career: these will disappoint
+	+ chase after God with an **undivided heart**
 
 ---
 <span class="ref">25</span>
