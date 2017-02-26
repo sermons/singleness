@@ -203,6 +203,7 @@ is that the **time is short**.
 + *short* (συνεσταλμένος): **wrapped up**, cut short
 
 ---
+<span class="ref">29</span>
 From now on those who **have** wives <br/>
 should live as if they **do not**;
 
@@ -214,11 +215,23 @@ those who are **happy**, as if they were not;
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
+>>>
++ **cry**, **rejoice**
++ **buy** || **possess**, hold onto
+
+---
 <span class="ref">31</span>
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
 For this **world** in its present form is **passing away**.
+
+>>>
++ **use**, deal with, engage
++ *engrossed*: **use** to **full**
+  + make full use of, as own, consumed
++ the **schema** of this world
+  + pattern, habit, manner
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -233,20 +246,20 @@ For this **world** in its present form is **passing away**.
 
 ---
 <span class="ref">28</span>
-Those who marry  <br/>
-will face **many troubles** in this life
+Those who **marry** <br/>
+will face **many troubles** in this life [...]
 
----
 <span class="ref">32</span>
 I would like you to be **free from concern**.
 
----
-An **unmarried man** is concerned about <br/>
-the **Lord’s affairs** — how he can please the Lord.
+>>>
++ *concern* (ἀμερίμνους): divided
+  + **anxiety**
 
+--
 <span class="ref">33</span>
-But a **married man** <br/>
-is concerned about the **affairs of this world** — <br/>
+A **married** man is concerned about <br/>
+the affairs of **this world** — <br/>
 how he can please his **wife** — <br/>
 <span class="ref">34</span>
 and his interests are **divided**.
@@ -258,14 +271,17 @@ and his interests are **divided**.
   + not fulfilling obligation of marriage
 
 ---
+<span class="ref">32</span>
+An **unmarried** man is concerned about <br/>
+the **Lord’s** affairs — how he can **please** the Lord.
+
+[...]
 <span class="ref">34</span>
-An **unmarried woman** or virgin <br/>
-is concerned about the **Lord’s affairs**: <br/>
 Her aim is to be **devoted** to the Lord <br/>
 in both **body** and **spirit**.
 
 >>>
-+ **holy**
++ *devoted*: **holy**
 
 ---
 <span class="ref">35</span>
