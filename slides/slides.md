@@ -356,8 +356,7 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Am I **undistracted** in **devotion**
-# to Christ, **holy** in body and spirit?
+# Am I **undistracted** in **devotion** to Christ, **holy** in body and spirit?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
