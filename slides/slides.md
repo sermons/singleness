@@ -99,8 +99,7 @@ but that you may live in a **right** way <br/>
 in **undivided devotion** to the Lord.
 
 ---
-<!-- .slide: id="outline" -->
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" id="outline" -->
 ## Singleness in the End Times
 1. **Contented** <span class="ref">(v25-28)</span>
 1. **Having** But Not **Holding** <span class="ref">(v29-31)</span>
@@ -129,7 +128,26 @@ who by the Lord’s mercy is **trustworthy**.
 
 ---
 <span class="ref">26</span>
+Because of the **present crisis**
+
+>>>
++ *crisis* (ἀνάγκην): compressed, constrained
+  + time is **short**
++ *present* (ἐνεστῶσαν): **standing in**, imminent
++ Christ's **return** is near
+  + time for **gospel** is short
+  + &rArr; stay **focused**
+
+---
+<span class="ref">26</span>
 It is good for a man to **remain** as he is.
+
+[...]
+<span class="ref">27</span>
+Do not **look** for a wife.
+
+>>>
++ Paul's **counsel** to singles
 
 ---
 <span class="ref">17</span>
@@ -144,6 +162,10 @@ just as God has **called** them.
   + *called* (κέκληκεν): vocation
 + thus **walk**
   + *live* (περιπατείτω)
++ seek **change** in circumstance
+	+ kid wants other kid's **toy**
++ "maybe this change will **fix** things":
+  + hair, major, school, friends, sexual orientation
 
 ---
 <span class="ref">20</span>
@@ -152,34 +174,24 @@ they were in when God **called** them.
 
 >>>
 + each, in the **calling**
-+ with which they were **called**,
-+ in this **remain**
-
----
-
->>>
-* don't seek to change circumstance
-	* children sharing toys
-	* "maybe this change will fix things" : hair, major, school, friends, sexual orientation
-	* feast of firstfruits: fulfillment
-
----
-<span class="ref">26</span>
-Because of the **present crisis**, <br/>
-
->>>
-+ *crisis* (ἀνάγκην): compressed, constrained
-+ *present* (ἐνεστῶσαν): **standing in**, imminent
-* contentment != laziness:
-	* 19 keeping commands of God
+  + with which they were **called**,
+  + in this **remain**
++ not about **abusive** relationships
++ but **focus** on God's **calling**
++ contentment != **laziness**:
+	+ *19* keeping **commands** of God
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q1
+## Do I pursue a **change** of circumstance
+## or God's **calling**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
-## outline
+## Singleness in the End Times
+1. Contented <span class="ref">(v25-28)</span>
+1. **Having But Not Holding** <span class="ref">(v29-31)</span>
+1. Undivided <span class="ref">(v32-35)</span>
 
 ---
 
@@ -192,16 +204,13 @@ Because of the **present crisis**, <br/>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
-## outline
+## Singleness in the End Times
+1. Contented <span class="ref">(v25-28)</span>
+1. Having But Not Holding <span class="ref">(v29-31)</span>
+1. **Undivided** <span class="ref">(v32-35)</span>
 
 ---
-<span class="ref">27</span>
-Are you **pledged** to a woman? <br/>
-Do not seek to be **released**.
-
-Are you **free** from such a commitment? <br/>
-Do not **look** for a wife.
-
+<span class="ref">28</span>
 But those who marry  <br/>
 will face **many troubles** in this life, <br/>
 and I want to **spare** you this.
