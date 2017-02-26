@@ -102,6 +102,7 @@ in **undivided devotion** to the Lord.
 * counsel of Paul as pastor, mentor
 
 ---
+<!-- .slide: id="outline" -->
 ## Singleness in the End Times
 1. **Contented** <span class="ref">(v25-28)</span>
 1. **Having** But Not **Holding** <span class="ref">(v29-31)</span>
@@ -110,13 +111,13 @@ in **undivided devotion** to the Lord.
 ---
 
 >>>
-* As you were when you were called 
-	* 17 as God apportioned to you 
-	* 20 in this remain 
-* don't seek to change circumstance 
+* As you were when you were called
+	* 17 as God apportioned to you
+	* 20 in this remain
+* don't seek to change circumstance
 	* children sharing toys
 	* "maybe this change will fix things" : hair, major, school, friends, sexual orientation
-	* feast of firstfruits: fulfillment 
+	* feast of firstfruits: fulfillment
 * 26 present distress: compressed, constrained
 * contentment != laziness:
 	* 19 keeping commands of God
@@ -131,7 +132,7 @@ in **undivided devotion** to the Lord.
 ---
 
 >>>
-* 29 the time is short: wrapped up, cut short 
+* 29 the time is short: wrapped up, cut short
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -143,8 +144,8 @@ in **undivided devotion** to the Lord.
 ---
 
 >>>
-* 28 suffering for the married 
-* 34 holy both in the body & the spirit 
+* 28 suffering for the married
+* 34 holy both in the body & the spirit
 * 35 devotion *(eu-par-hedron)*: sit beside, attend
 	* undistracted *(a-peri-spastws)*: drawn out
 
