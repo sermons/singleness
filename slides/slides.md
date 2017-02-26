@@ -340,7 +340,7 @@ in both **body** and **spirit**.
 + *devoted*: **holy**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 
 <span class="ref">35</span>
 I am saying this for your **own good**, <br/>
