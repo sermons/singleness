@@ -53,11 +53,11 @@ is that the **time is short**.
 From now on those who **have** wives <br/>
 should live as if they **do not**;
 
----
 <span class="ref">30</span>
 those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not;
 
+---
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
@@ -135,6 +135,7 @@ Because of the **present crisis**
   + time is **short**
 + *present* (ἐνεστῶσαν): **standing in**, imminent
 + Christ's **return** is near
+  + even **marriage** is temporary
   + time for **gospel** is short
   + &rArr; stay **focused**
 
@@ -194,32 +195,14 @@ they were in when God **called** them.
 1. Undivided <span class="ref">(v32-35)</span>
 
 ---
-
->>>
-* 29 the time is short: wrapped up, cut short
-
----
-<!-- .slide: class="Q" data-background="white" -->
-# Q2
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
-## Singleness in the End Times
-1. Contented <span class="ref">(v25-28)</span>
-1. Having But Not Holding <span class="ref">(v29-31)</span>
-1. **Undivided** <span class="ref">(v32-35)</span>
-
----
-<span class="ref">28</span>
-But those who marry  <br/>
-will face **many troubles** in this life, <br/>
-and I want to **spare** you this.
-
----
 <span class="ref">29</span>
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
 
+>>>
++ *short* (συνεσταλμένος): **wrapped up**, cut short
+
+---
 From now on those who **have** wives <br/>
 should live as if they **do not**;
 
@@ -238,9 +221,26 @@ as if not **engrossed** in them.
 For this **world** in its present form is **passing away**.
 
 ---
+<!-- .slide: class="Q" data-background="white" -->
+# Q2
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+## Singleness in the End Times
+1. Contented <span class="ref">(v25-28)</span>
+1. Having But Not Holding <span class="ref">(v29-31)</span>
+1. **Undivided** <span class="ref">(v32-35)</span>
+
+---
+<span class="ref">28</span>
+Those who marry  <br/>
+will face **many troubles** in this life
+
+---
 <span class="ref">32</span>
 I would like you to be **free from concern**.
 
+---
 An **unmarried man** is concerned about <br/>
 the **Lord’s affairs** — how he can please the Lord.
 
@@ -251,15 +251,21 @@ how he can please his **wife** — <br/>
 <span class="ref">34</span>
 and his interests are **divided**.
 
+>>>
++ Not **condemnation**
+  + just **necessity**
++ Married but **not** concerned about spouse:
+  + not fulfilling obligation of marriage
+
 ---
+<span class="ref">34</span>
 An **unmarried woman** or virgin <br/>
 is concerned about the **Lord’s affairs**: <br/>
 Her aim is to be **devoted** to the Lord <br/>
 in both **body** and **spirit**.
 
-But a **married woman** <br/>
-is concerned about the **affairs of this world** — <br/>
-how she can please her **husband**.
+>>>
++ **holy**
 
 ---
 <span class="ref">35</span>
@@ -268,14 +274,13 @@ not to **restrict** you, <br/>
 but that you may live in a **right** way <br/>
 in **undivided devotion** to the Lord.
 
-
----
-
 >>>
-* 28 suffering for the married
-* 34 holy both in the body & the spirit
-* 35 devotion *(eu-par-hedron)*: sit beside, attend
-	* undistracted *(a-peri-spastws)*: drawn out
++ *restrict* (): **burden**
++ *right* (εὔσχημον): seemly, good **schema**
++ *undivided* (ἀπερισπάστως)
+  + not drawn out, **undistracted**
++ *devotion* (εὐπάρεδρον):
+  + sit beside, **attend**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
