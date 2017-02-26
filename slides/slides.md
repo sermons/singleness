@@ -198,7 +198,7 @@ they were in when God **called** them.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Do I pursue a **change** of circumstance
+# Do I pursue a <br/> **change** of circumstance
 # or God's **calling**?
 
 ---
@@ -356,7 +356,8 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Am I **undistracted** in **devotion** to Christ, **holy** in body and spirit?
+# Am I **undistracted** <br/> in **devotion** to Christ,
+# **holy** in body and spirit?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
