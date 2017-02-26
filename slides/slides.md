@@ -108,12 +108,21 @@ in **undivided devotion** to the Lord.
 
 ---
 <span class="ref">25</span>
-I have **no command** from the Lord, <br/>
+Now about **virgins**, <br/>
+I have no **command** from the Lord
+
+>>>
++ *virgin*: **never-married**
+  + typically F
+  + but here also M
++  **command** was in *v10*: no **divorce**
+
+---
+<span class="ref">25</span>
 but I give a **judgment** as one <br/>
 who by the Lord’s mercy is **trustworthy**.
 
 >>>
-+ **command** was in *v10*: no **divorce**
 + *judgment* (γνώμην): **knowledge**, counsel
 + *trustworthy* (πιστὸς): **faithful**
 + ask counsel from trusted **pastor**
