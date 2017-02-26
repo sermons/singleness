@@ -161,7 +161,7 @@ Do not **look** for a wife.
 + Paul's **counsel** to singles
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
 
 <span class="ref">17</span>
 Each person should **live** as a believer <br/>
@@ -198,8 +198,8 @@ they were in when God **called** them.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Do I pursue a **change** of circumstance
-## or God's **calling**?
+# Do I pursue a **change** of circumstance
+# or God's **calling**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
@@ -283,8 +283,8 @@ For this **world** in its present form is **passing away**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Have I yielded my **relationships**, **emotions**, and **finances**
-## to God's authority?
+# Have I yielded my **relationships**, **emotions**, and **finances**
+# to God's authority?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
@@ -308,7 +308,7 @@ I would like you to be **free from concern**.
 + *concern* (ἀμερίμνους): divided
   + **anxiety**
 
---
+---
 <span class="ref">33</span>
 A **married** man is concerned about <br/>
 the affairs of **this world** — <br/>
@@ -356,8 +356,8 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Do I give Christ my **undistracted devotion**,
-## **holy** in body and spirit?
+# Am I **undistracted** in **devotion**
+# to Christ, **holy** in body and spirit?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
