@@ -207,6 +207,25 @@ is that the **time is short**.
 From now on those who **have** wives <br/>
 should live as if they **do not**;
 
+>>>
++ not to **neglect** relationships
++ but **subordinate** under Christ's calling
+
+---
+## Matthew 10:37-38 <span class="ref">(NIV)</span>
+Anyone who loves their **father or mother** <br/>
+more than me is not worthy of me; <br/>
+anyone who loves their **son or daughter** <br/>
+more than me is not worthy of me.
+
+Whoever does not take up their **cross** <br/>
+and **follow me** is not worthy of me.
+
+>>>
++ **responsibilities** of family
++ do not **exempt** us from
++ **calling** of God
+
 ---
 <span class="ref">30</span>
 those who **mourn**, as if they did not; <br/>
@@ -216,8 +235,13 @@ those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
 >>>
-+ **cry**, **rejoice**
-+ **buy** || **possess**, hold onto
+1. **relationships** subordinate
+2. **emotions**:
+  + *mourn*: **cry**
+  + *happy*: **rejoice**
+3. **finances**:
+  + **buy**
+  + *keep*: **possess**, hold onto
 
 ---
 <span class="ref">31</span>
@@ -228,6 +252,7 @@ For this **world** in its present form is **passing away**.
 
 >>>
 + **use**, deal with, engage
+  + necessity to live in world
 + *engrossed*: **use** to **full**
   + make full use of, as own, consumed
 + the **schema** of this world
@@ -235,7 +260,8 @@ For this **world** in its present form is **passing away**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+## Have I yielded my **relationships**, **emotions**, and **finances**
+## to God's authority?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
