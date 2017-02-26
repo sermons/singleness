@@ -121,7 +121,7 @@ I have no **command** from the Lord
 +  **command** was in *v10*: no **divorce**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
 
 <span class="ref">25</span>
 but I give a **judgment** as one <br/>
@@ -248,6 +248,7 @@ and **follow me** is not worthy of me.
 + **calling** of God
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/negativespace-money.jpg" -->
 <span class="ref">30</span>
 those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not;
@@ -309,6 +310,7 @@ I would like you to be **free from concern**.
   + **anxiety**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
 <span class="ref">33</span>
 A **married** man is concerned about <br/>
 the affairs of **this world** — <br/>
