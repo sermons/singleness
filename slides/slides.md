@@ -6,6 +6,9 @@
 <!-- .slide: class="Q" data-background="white" -->
 # Q0
 
+[ ### ](/#10)
+<!-- .element: style="color: rgba(0,0,0,0.2)" -->
+
 >>>
 * new parents: enter new club
 	* youth: want to "level up" to next stage of life
