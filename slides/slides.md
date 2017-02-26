@@ -181,7 +181,7 @@ just as God has **called** them.
   + hair, major, school, friends, sexual orientation
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 
 <span class="ref">20</span>
 Each person should **remain** in the **situation** <br/>
@@ -325,7 +325,7 @@ and his interests are **divided**.
   + not fulfilling obligation of marriage
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 
 <span class="ref">32</span>
 An **unmarried** man is concerned about <br/>
