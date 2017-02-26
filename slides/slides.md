@@ -355,11 +355,16 @@ in **undivided devotion** to the Lord.
   + not drawn out, **undistracted**
 + *devotion* (εὐπάρεδρον):
   + sit beside, **attend**
+  + God's presence is **enough**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # Am I **undistracted** <br/> in **devotion** to Christ,
 # **holy** in body and spirit?
+
+>>>
++ **sit** at His feet
++ **obey** in holiness
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
