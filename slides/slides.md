@@ -108,7 +108,7 @@ in **undivided devotion** to the Lord.
 1. **Undivided** <span class="ref">(v32-35)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 
 <span class="ref">25</span>
 Now about **virgins**, <br/>
@@ -121,7 +121,7 @@ I have no **command** from the Lord
 +  **command** was in *v10*: no **divorce**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 
 <span class="ref">25</span>
 but I give a **judgment** as one <br/>
