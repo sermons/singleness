@@ -1,4 +1,5 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+
 # Singleness in <br/> the End Times
 ## 1 Corinthians 7:25-35
 
@@ -100,12 +101,15 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" id="outline" -->
+
 ## Singleness in the End Times
 1. **Contented** <span class="ref">(v25-28)</span>
 1. **Having** But Not **Holding** <span class="ref">(v29-31)</span>
 1. **Undivided** <span class="ref">(v32-35)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
+
 <span class="ref">25</span>
 Now about **virgins**, <br/>
 I have no **command** from the Lord
@@ -117,6 +121,8 @@ I have no **command** from the Lord
 +  **command** was in *v10*: no **divorce**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
+
 <span class="ref">25</span>
 but I give a **judgment** as one <br/>
 who by the Lord’s mercy is **trustworthy**.
@@ -127,6 +133,8 @@ who by the Lord’s mercy is **trustworthy**.
 + ask counsel from trusted **pastor**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+
 <span class="ref">26</span>
 Because of the **present crisis**
 
@@ -140,6 +148,8 @@ Because of the **present crisis**
   + &rArr; stay **focused**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+
 <span class="ref">26</span>
 It is good for a man to **remain** as he is.
 
@@ -151,6 +161,8 @@ Do not **look** for a wife.
 + Paul's **counsel** to singles
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+
 <span class="ref">17</span>
 Each person should **live** as a believer <br/>
 in whatever situation the Lord has **assigned** to them, <br/>
@@ -169,6 +181,8 @@ just as God has **called** them.
   + hair, major, school, friends, sexual orientation
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+
 <span class="ref">20</span>
 Each person should **remain** in the **situation** <br/>
 they were in when God **called** them.
@@ -189,12 +203,15 @@ they were in when God **called** them.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+
 ## Singleness in the End Times
 1. Contented <span class="ref">(v25-28)</span>
 1. **Having But Not Holding** <span class="ref">(v29-31)</span>
 1. Undivided <span class="ref">(v32-35)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
+
 <span class="ref">29</span>
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
@@ -203,6 +220,8 @@ is that the **time is short**.
 + *short* (συνεσταλμένος): **wrapped up**, cut short
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
+
 <span class="ref">29</span>
 From now on those who **have** wives <br/>
 should live as if they **do not**;
@@ -212,6 +231,8 @@ should live as if they **do not**;
 + but **subordinate** under Christ's calling
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
+
 ## Matthew 10:37-38 <span class="ref">(NIV)</span>
 Anyone who loves their **father or mother** <br/>
 more than me is not worthy of me; <br/>
@@ -244,6 +265,8 @@ as if it were not theirs to **keep**;
   + *keep*: **possess**, hold onto
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+
 <span class="ref">31</span>
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
@@ -265,12 +288,15 @@ For this **world** in its present form is **passing away**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+
 ## Singleness in the End Times
 1. Contented <span class="ref">(v25-28)</span>
 1. Having But Not Holding <span class="ref">(v29-31)</span>
 1. **Undivided** <span class="ref">(v32-35)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/edson-light_road.jpg" -->
+
 <span class="ref">28</span>
 Those who **marry** <br/>
 will face **many troubles** in this life [...]
@@ -297,6 +323,8 @@ and his interests are **divided**.
   + not fulfilling obligation of marriage
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+
 <span class="ref">32</span>
 An **unmarried** man is concerned about <br/>
 the **Lord’s** affairs — how he can **please** the Lord.
@@ -310,6 +338,8 @@ in both **body** and **spirit**.
 + *devoted*: **holy**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+
 <span class="ref">35</span>
 I am saying this for your **own good**, <br/>
 not to **restrict** you, <br/>
@@ -331,6 +361,7 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+
 <span class="ref">29</span>
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
@@ -344,6 +375,7 @@ those who are **happy**, as if they were not;
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
