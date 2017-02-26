@@ -326,7 +326,32 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+## Do I give Christ my **undistracted devotion**,
+## **holy** in body and spirit?
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+<span class="ref">29</span>
+What I mean, brothers and sisters, <br/>
+is that the **time is short**.
+
+From now on those who **have** wives <br/>
+should live as if they **do not**;
+
+<span class="ref">30</span>
+those who **mourn**, as if they did not; <br/>
+those who are **happy**, as if they were not;
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+those who **buy** something, <br/>
+as if it were not theirs to **keep**;
+
+<span class="ref">31</span>
+those who **use** the things of the world, <br/>
+as if not **engrossed** in them.
+
+For this **world** in its present form is **passing away**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" class="empty" -->
