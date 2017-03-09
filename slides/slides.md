@@ -17,8 +17,6 @@
 	+ don't chase after bf/gf, marriage, grades, career: these will disappoint
 	+ chase after God with an **undivided heart**
 
-[(SKIP SCRIPTURE) ](#/outline)
-
 ---
 <span class="ref">25</span>
 Now about **virgins**:
