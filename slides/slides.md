@@ -296,7 +296,7 @@ For this **world** in its present form is **passing away**.
 1. **Undivided** <span class="ref">(v32-35)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/edson-light_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pexels-16013-edson-light_road.jpg" -->
 
 <span class="ref">28</span>
 Those who **marry** <br/>
