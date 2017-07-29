@@ -3,7 +3,9 @@
  *********************************************/
 
 /* Larger text */
+/*
 html { font-size: 3em }
+*/
 
 /* Override slide centering (interferes with print-pdf?) */
 @media screen {
