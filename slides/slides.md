@@ -188,6 +188,9 @@ Each person should **remain** in the **situation** <br/>
 they were in when God **called** them.
 
 >>>
++ leading cause of **affairs**:
+  + not **complaint** about spouse, but
+  + **dissatisfaction** w/own life
 + each, in the **calling**
   + with which they were **called**,
   + in this **remain**
