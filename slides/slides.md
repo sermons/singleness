@@ -1,14 +1,12 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
-
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> id="title" -->
 # Singleness in <br/> the End Times
 ## 1 Corinthians 7:25-35
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # What does the Bible say to **singles**?
 
-[ ### ](#/outline)
-<!-- .element: style="color: rgba(0,0,0,0.2)" -->
+[ ### ](#/outline "secret")
 
 >>>
 + youth: want to "level up" to next stage of life
@@ -18,27 +16,31 @@
 	+ chase after God with an **undivided heart**
 
 ---
-<span class="ref">25</span>
+[25](# "ref")
 Now about **virgins**:
 
 I have **no command** from the Lord, <br/>
 but I give a **judgment** as one <br/>
 who by the Lord’s mercy is **trustworthy**.
 
+[1 Corinthians 7:25 (NIV) (p.1/8)](# "ref")
+
 ---
-<span class="ref">26</span>
+[26](# "ref")
 Because of the **present crisis**, <br/>
 I think that it is good for a man to **remain** as he is.
 
-<span class="ref">27</span>
+[27](# "ref")
 Are you **pledged** to a woman? <br/>
 Do not seek to be **released**.
 
 Are you **free** from such a commitment? <br/>
 Do not **look** for a wife.
 
+[1 Corinthians 7:26-27 (NIV) (p.2/8)](# "ref")
+
 ---
-<span class="ref">28</span>
+[28](# "ref")
 But if you do **marry**, you have **not sinned**; <br/>
 and if a virgin marries, she has not sinned.
 
@@ -46,41 +48,49 @@ But those who marry  <br/>
 will face **many troubles** in this life, <br/>
 and I want to **spare** you this.
 
+[1 Corinthians 7:28 (NIV) (p.3/8)](# "ref")
+
 ---
-<span class="ref">29</span>
+[29](# "ref")
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
 
 From now on those who **have** wives <br/>
 should live as if they **do not**;
 
-<span class="ref">30</span>
+[30](# "ref")
 those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not;
+
+[1 Corinthians 7:29-30 (NIV) (p.4/8)](# "ref")
 
 ---
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
-<span class="ref">31</span>
+[31](# "ref")
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
 For this **world** in its present form is **passing away**.
 
+[1 Corinthians 7:30-31 (NIV) (p.5/8)](# "ref")
+
 ---
-<span class="ref">32</span>
+[32](# "ref")
 I would like you to be **free from concern**.
 
 An **unmarried man** is concerned about <br/>
 the **Lord’s affairs** — how he can please the Lord.
 
-<span class="ref">33</span>
+[33](# "ref")
 But a **married man** <br/>
 is concerned about the **affairs of this world** — <br/>
 how he can please his **wife** — <br/>
-<span class="ref">34</span>
+[34](# "ref")
 and his interests are **divided**.
+
+[1 Corinthians 7:32-34 (NIV) (p.6/8)](# "ref")
 
 ---
 An **unmarried woman** or virgin <br/>
@@ -92,27 +102,30 @@ But a **married woman** <br/>
 is concerned about the **affairs of this world** — <br/>
 how she can please her **husband**.
 
+[1 Corinthians 7:34 (NIV) (p.7/8)](# "ref")
+
 ---
-<span class="ref">35</span>
+[35](# "ref")
 I am saying this for your **own good**, <br/>
 not to **restrict** you, <br/>
 but that you may live in a **right** way <br/>
 in **undivided devotion** to the Lord.
 
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" id="outline" -->
+[1 Corinthians 7:35 (NIV) (p.8/8)](# "ref")
 
+---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> id="outline" -->
 ## Singleness in the End Times
-1. **Contented** <span class="ref">(v25-28)</span>
-1. **Having** But Not **Holding** <span class="ref">(v29-31)</span>
-1. **Undivided** <span class="ref">(v32-35)</span>
+1. **Contented** [(v25-28)](# "ref")
+1. **Having** But Not **Holding** [(v29-31)](# "ref")
+1. **Undivided** [(v32-35)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
-
-<span class="ref">25</span>
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 Now about **virgins**, <br/>
 I have no **command** from the Lord
+
+[1 Corinthians 7:25 (NIV)](# "ref")
 
 >>>
 + *virgin*: **never-married**
@@ -121,11 +134,11 @@ I have no **command** from the Lord
 +  **command** was in *v10*: no **divorce**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
-
-<span class="ref">25</span>
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
 but I give a **judgment** as one <br/>
 who by the Lord’s mercy is **trustworthy**.
+
+[1 Corinthians 7:25 (NIV)](# "ref")
 
 >>>
 + *judgment* (γνώμην): **knowledge**, counsel
@@ -133,10 +146,10 @@ who by the Lord’s mercy is **trustworthy**.
 + ask counsel from trusted **pastor**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
-
-<span class="ref">26</span>
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 Because of the **present crisis**
+
+[1 Corinthians 7:26 (NIV)](# "ref")
 
 >>>
 + *crisis* (ἀνάγκην): compressed, constrained
@@ -148,25 +161,26 @@ Because of the **present crisis**
   + &rArr; stay **focused**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
-
-<span class="ref">26</span>
+<!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
+[26](# "ref")
 It is good for a man to **remain** as he is.
 
 [...]
-<span class="ref">27</span>
+[27](# "ref")
 Do not **look** for a wife.
+
+[1 Corinthians 7:26-27 (NIV)](# "ref")
 
 >>>
 + Paul's **counsel** to singles
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8MbdD0pHXGY-italy_mtn.jpg" -->
-
-<span class="ref">17</span>
+<!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 Each person should **live** as a believer <br/>
 in whatever situation the Lord has **assigned** to them, <br/>
 just as God has **called** them.
+
+[1 Corinthians 7:17 (NIV)](# "ref")
 
 >>>
 + to each as the Lord **apportioned**,
@@ -181,11 +195,11 @@ just as God has **called** them.
   + hair, major, school, friends, sexual orientation
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
-
-<span class="ref">20</span>
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 Each person should **remain** in the **situation** <br/>
 they were in when God **called** them.
+
+[1 Corinthians 7:20 (NIV)](# "ref")
 
 >>>
 + leading cause of **affairs**:
@@ -200,24 +214,23 @@ they were in when God **called** them.
 	+ *19* keeping **commands** of God
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Do I pursue a <br/> **change** of circumstance
 # or God's **calling**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
-
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 ## Singleness in the End Times
 1. Contented <span class="ref">(v25-28)</span>
 1. **Having But Not Holding** <span class="ref">(v29-31)</span>
 1. Undivided <span class="ref">(v32-35)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ywtbSuCSjhM-sunbeam-valley.jpg" -->
-
-<span class="ref">29</span>
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
+
+[1 Corinthians 7:29 (NIV)](# "ref")
 
 >>>
 + *short* (συνεσταλμένος): **wrapped up**, cut short
