@@ -3,7 +3,7 @@
 
 [![Build status](https://travis-ci.org/sermons/singleness.svg)](https://travis-ci.org/sermons/singleness)
 [![Node deps](https://david-dm.org/sermons/singleness.svg)](https://david-dm.org/sermons/singleness)
-[![Node devDeps](https://david-dm.org/sermons/singleness/dev-status.svg)](https://david-dm.org/sermons/singleness#info=devDependencies)
+[![Node devDeps](https://david-dm.org/sermons/singleness/dev-status.svg)](https://david-dm.org/sermons/singleness?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
