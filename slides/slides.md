@@ -9,11 +9,13 @@
 [ ### ](#/outline "secret")
 
 >>>
-+ youth: want to "level up" to next stage of life
-  + college, work, marriage, children, ...
-+ devote yourself to God in the *now*, not the *someday*
-	+ don't chase after bf/gf, marriage, grades, career: these will disappoint
-	+ chase after God with an **undivided heart**
++ youth: "level up", next **life stage**
+  + college, work, marriage, children
++ devote yourself to God in the **now**
+  + not the **someday**
++ don't **chase** after bf/gf, marriage, grades, career
+  + these will **disappoint**
++ chase after God: **undivided heart**
 
 ---
 [25](# "ref")
@@ -27,8 +29,9 @@ who by the Lord’s mercy is **trustworthy**.
 
 ---
 [26](# "ref")
-Because of the **present crisis**, <br/>
-I think that it is good for a man to **remain** as he is.
+Because of the **present crisis**, <br>
+I think that it is good for a man <br>
+to **remain** as he is.
 
 [27](# "ref")
 Are you **pledged** to a woman? <br/>
@@ -72,7 +75,8 @@ as if it were not theirs to **keep**;
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
-For this **world** in its present form is **passing away**.
+For this **world** in its present form <br>
+is **passing away**.
 
 [1 Corinthians 7:30-31 (NIV) (p.5/8)](# "ref")
 
@@ -81,7 +85,8 @@ For this **world** in its present form is **passing away**.
 I would like you to be **free from concern**.
 
 An **unmarried man** is concerned about <br/>
-the **Lord’s affairs** — how he can please the Lord.
+the **Lord’s** affairs — <br>
+how he can **please** the Lord.
 
 [33](# "ref")
 But a **married man** <br/>
