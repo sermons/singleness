@@ -190,7 +190,8 @@ Do not **look** for a wife.
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 Each person should **live** as a believer <br/>
-in whatever situation the Lord has **assigned** to them, <br/>
+in whatever situation <br>
+the Lord has **assigned** to them, <br/>
 just as God has **called** them.
 
 [1 Corinthians 7:17 (NIV)](# "ref")
@@ -318,7 +319,8 @@ as if it were not theirs to **keep**;
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
-For this **world** in its present **form** is passing away.
+For this **world** in its present **form** <br>
+is passing away.
 
 [1 Corinthians 7:31 (NIV)](# "ref")
 
@@ -332,8 +334,7 @@ For this **world** in its present **form** is passing away.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I yielded my **relationships**, **emotions**, and **finances**
-# to God's authority?
+# Have I yielded my **relationships**, **emotions**, and **finances** to God's authority?
 
 >>>
 + **imminence** of Christ's return
@@ -388,7 +389,8 @@ and his interests are **divided**.
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 [32](# "ref")
 An **unmarried** man is concerned about <br/>
-the **Lord’s** affairs — how he can **please** the Lord.
+the **Lord’s** affairs — <br>
+how he can **please** the Lord.
 
 [...]
 [34](# "ref")
@@ -438,8 +440,7 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **undistracted** <br/> in **devotion** to Christ,
-# **holy** in body and spirit?
+# Am I **undistracted** <br/> in **devotion** to Christ, **holy** in body and spirit?
 
 >>>
 + **sit** at His feet
@@ -469,7 +470,8 @@ as if it were not theirs to **keep**;
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
-For this **world** in its present form is **passing away**.
+For this **world** in its present form <br>
+is **passing away**.
 
 [1 Corinthians 7:30-31 (NIV) (p.2/2)](# "ref")
 
