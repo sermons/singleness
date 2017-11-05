@@ -337,13 +337,15 @@ I would like you to be **free from concern**.
   + **anxiety**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
-<span class="ref">33</span>
+<!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
+[33](# "ref")
 A **married** man is concerned about <br/>
 the affairs of **this world** — <br/>
 how he can please his **wife** — <br/>
-<span class="ref">34</span>
+[34](# "ref")
 and his interests are **divided**.
+
+[1 Corinthians 7:33-34 (NIV)](# "ref")
 
 >>>
 + Not **condemnation**
@@ -352,28 +354,30 @@ and his interests are **divided**.
   + not fulfilling obligation of marriage
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
-
-<span class="ref">32</span>
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+[32](# "ref")
 An **unmarried** man is concerned about <br/>
 the **Lord’s** affairs — how he can **please** the Lord.
 
 [...]
-<span class="ref">34</span>
+[34](# "ref")
 Her aim is to be **devoted** to the Lord <br/>
 in both **body** and **spirit**.
+
+[1 Corinthians 7:32,34 (NIV)](# "ref")
 
 >>>
 + *devoted*: **holy**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
-
-<span class="ref">35</span>
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 I am saying this for your **own good**, <br/>
-not to **restrict** you, <br/>
+not to **restrict** you,
+
 but that you may live in a **right** way <br/>
 in **undivided devotion** to the Lord.
+
+[1 Corinthians 7:35 (NIV)](# "ref")
 
 >>>
 + *restrict* (): **burden**
@@ -385,7 +389,7 @@ in **undivided devotion** to the Lord.
   + God's presence is **enough**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Am I **undistracted** <br/> in **devotion** to Christ,
 # **holy** in body and spirit?
 
@@ -394,30 +398,33 @@ in **undivided devotion** to the Lord.
 + **obey** in holiness
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
-
-<span class="ref">29</span>
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
+[29](# "ref")
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
 
 From now on those who **have** wives <br/>
 should live as if they **do not**;
 
-<span class="ref">30</span>
+[30](# "ref")
 those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not;
 
+[1 Corinthians 7:29-30 (NIV) (p.1/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
-<span class="ref">31</span>
+[31](# "ref")
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
 For this **world** in its present form is **passing away**.
 
+[1 Corinthians 7:30-31 (NIV) (p.2/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> class="empty" -->
