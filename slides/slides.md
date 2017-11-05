@@ -136,6 +136,8 @@ I have no **command** from the Lord
 + *virgin*: **never-married**
   + typically F
   + but here also M
++ what about **dating**?
+  + virgin &rarr; **betrothed** &rarr; married
 +  **command** was in *v10*: no **divorce**
 
 ---
@@ -160,8 +162,8 @@ Because of the **present crisis**
 + *crisis* (ἀνάγκην): compressed, constrained
   + time is **short**
 + *present* (ἐνεστῶσαν): **standing in**, imminent
-+ Christ's **return** is near
-  + even **marriage** is temporary
++ increasingly **corrupt** world
+  + Christ's **return** is near
   + time for **gospel** is short
   + &rArr; stay **focused**
 
@@ -177,14 +179,19 @@ Do not **look** for a wife.
 [1 Corinthians 7:26-27 (NIV)](# "ref")
 
 >>>
++ v2-4 **marriage** has its value:
+  + **tesimony** against prevalent **immorality**
+  + mutual **service** (duty)
+  + and **submission** (authority)
 + Paul's **counsel** to singles:
-+ recognize the **good** in current calling
++ recognize **good** in current calling
 + not **seeking** to be married
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
 Each person should **live** as a believer <br/>
-in whatever situation the Lord has **assigned** to them, <br/>
+in whatever situation <br>
+the Lord has **assigned** to them, <br/>
 just as God has **called** them.
 
 [1 Corinthians 7:17 (NIV)](# "ref")
@@ -226,12 +233,23 @@ they were in when God **called** them.
 # Do I pursue a <br/> **change** of circumstance
 # or God's **calling**?
 
+>>>
++ while **young** + single:
+  + **find** God's calling
+  + be **happy** with it
++ not doing **great** things for God
+  + **preparation**: character, patience
+
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 ## Singleness in the End Times
 1. Contented [(v25-28)](# "ref")
 1. **Having But Not Holding** [(v29-31)](# "ref")
 1. Undivided [(v32-35)](# "ref")
+
+>>>
++ be **happy** in God's calling
++ not **comfortable** in this world!
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
@@ -242,6 +260,9 @@ is that the **time is short**.
 
 >>>
 + *short* (συνεσταλμένος): **wrapped up**, cut short
++ **world** increasingly **corrupt**
++ Christ's **return** imminent
++ **urgency** to share gospel
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
@@ -251,7 +272,7 @@ should live as if they **do not**;
 [1 Corinthians 7:29 (NIV)](# "ref")
 
 >>>
-+ not to **neglect** relationships
++ not **neglecting** relationships
 + but **subordinate** under Christ's calling
 
 ---
@@ -271,6 +292,8 @@ and **follow me** is not worthy of me.
 + **responsibilities** of family
 + do not **exempt** us from
 + **calling** of God
++ "if you **love** me, you'd ...."
+  + &rArr; true love honours **God** first
 
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
@@ -296,7 +319,8 @@ as if it were not theirs to **keep**;
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
-For this **world** in its present form is **passing away**.
+For this **world** in its present **form** <br>
+is passing away.
 
 [1 Corinthians 7:31 (NIV)](# "ref")
 
@@ -310,8 +334,11 @@ For this **world** in its present form is **passing away**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I yielded my **relationships**, **emotions**, and **finances**
-# to God's authority?
+# Have I yielded my **relationships**, **emotions**, and **finances** to God's authority?
+
+>>>
++ **imminence** of Christ's return
++ **urgency** + focus on gospel
 
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
@@ -320,9 +347,14 @@ For this **world** in its present form is **passing away**.
 1. Having But Not Holding [(v29-31)](# "ref")
 1. **Undivided** [(v32-35)](# "ref")
 
+>>>
++ single life much more **free**!
++ not free to indulge **selfish** nature
++ but free to draw **close** to God
+  + single-minded **devotion**
+
 ---
 <!-- .slide: <%= bg("pexels-16013-edson-light_road.jpg") %> -->
-
 [28](# "ref")
 Those who **marry** <br/>
 will face **many troubles** in this life [...]
@@ -337,43 +369,65 @@ I would like you to be **free from concern**.
   + **anxiety**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
-<span class="ref">33</span>
+<!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
+[33](# "ref")
 A **married** man is concerned about <br/>
 the affairs of **this world** — <br/>
 how he can please his **wife** — <br/>
-<span class="ref">34</span>
+[34](# "ref")
 and his interests are **divided**.
+
+[1 Corinthians 7:33-34 (NIV)](# "ref")
 
 >>>
 + Not **condemnation**
   + just **necessity**
 + Married but **not** concerned about spouse:
-  + not fulfilling obligation of marriage
+  + not fulfilling **obligation** of marriage
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
-
-<span class="ref">32</span>
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+[32](# "ref")
 An **unmarried** man is concerned about <br/>
-the **Lord’s** affairs — how he can **please** the Lord.
+the **Lord’s** affairs — <br>
+how he can **please** the Lord.
 
 [...]
-<span class="ref">34</span>
+[34](# "ref")
 Her aim is to be **devoted** to the Lord <br/>
 in both **body** and **spirit**.
 
+[1 Corinthians 7:32,34 (NIV)](# "ref")
+
 >>>
 + *devoted*: **holy**
++ **body**: actions, practical daily life
++ **spirit**: heart, purpose, focus
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+Live as people who are **free**,
+not using your freedom as a **cover-up** for evil,
+but living as **servants** of God.
 
-<span class="ref">35</span>
+[1 Peter 2:16 (ESV)](# "ref")
+
+>>>
++ single: **time** to reflect, pray
+  + long walks on beach
++ how to **use** your time? purpose?
+  + not pursuing **own** dreams
+  + **serve** God
+
+---
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 I am saying this for your **own good**, <br/>
-not to **restrict** you, <br/>
+not to **restrict** you,
+
 but that you may live in a **right** way <br/>
 in **undivided devotion** to the Lord.
+
+[1 Corinthians 7:35 (NIV)](# "ref")
 
 >>>
 + *restrict* (): **burden**
@@ -385,39 +439,41 @@ in **undivided devotion** to the Lord.
   + God's presence is **enough**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
-# Am I **undistracted** <br/> in **devotion** to Christ,
-# **holy** in body and spirit?
+<!-- .slide: data-background="white" -->
+# Am I **undistracted** <br/> in **devotion** to Christ, **holy** in body and spirit?
 
 >>>
 + **sit** at His feet
 + **obey** in holiness
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
-
-<span class="ref">29</span>
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
+[29](# "ref")
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
 
 From now on those who **have** wives <br/>
 should live as if they **do not**;
 
-<span class="ref">30</span>
+[30](# "ref")
 those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not;
 
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
+[1 Corinthians 7:29-30 (NIV) (p.1/2)](# "ref")
 
+---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
-<span class="ref">31</span>
+[31](# "ref")
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
-For this **world** in its present form is **passing away**.
+For this **world** in its present form <br>
+is **passing away**.
+
+[1 Corinthians 7:30-31 (NIV) (p.2/2)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> class="empty" -->
