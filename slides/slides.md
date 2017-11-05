@@ -177,7 +177,9 @@ Do not **look** for a wife.
 [1 Corinthians 7:26-27 (NIV)](# "ref")
 
 >>>
-+ Paul's **counsel** to singles
++ Paul's **counsel** to singles:
++ recognize the **good** in current calling
++ not **seeking** to be married
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
@@ -213,8 +215,9 @@ they were in when God **called** them.
 + each, in the **calling**
   + with which they were **called**,
   + in this **remain**
-+ not about **abusive** relationships
-+ but **focus** on God's **calling**
++ not "**situation**" (environ, abuse)
+  + but **calling** (purpose, role)
+  + determined by **God**
 + contentment != **laziness**:
 	+ *19* keeping **commands** of God
 
@@ -226,9 +229,9 @@ they were in when God **called** them.
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 ## Singleness in the End Times
-1. Contented <span class="ref">(v25-28)</span>
-1. **Having But Not Holding** <span class="ref">(v29-31)</span>
-1. Undivided <span class="ref">(v32-35)</span>
+1. Contented [(v25-28)](# "ref")
+1. **Having But Not Holding** [(v29-31)](# "ref")
+1. Undivided [(v32-35)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
@@ -241,27 +244,28 @@ is that the **time is short**.
 + *short* (συνεσταλμένος): **wrapped up**, cut short
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
-
-<span class="ref">29</span>
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 From now on those who **have** wives <br/>
 should live as if they **do not**;
+
+[1 Corinthians 7:29 (NIV)](# "ref")
 
 >>>
 + not to **neglect** relationships
 + but **subordinate** under Christ's calling
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
-
-## Matthew 10:37-38 <span class="ref">(NIV)</span>
+<!-- .slide: <%= bg("father_son_walk.jpg") %> -->
 Anyone who loves their **father or mother** <br/>
-more than me is not worthy of me; <br/>
+more than me is not worthy of me;
+
 anyone who loves their **son or daughter** <br/>
 more than me is not worthy of me.
 
 Whoever does not take up their **cross** <br/>
 and **follow me** is not worthy of me.
+
+[Matthew 10:37-38 (NIV)](# "ref")
 
 >>>
 + **responsibilities** of family
@@ -269,13 +273,14 @@ and **follow me** is not worthy of me.
 + **calling** of God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/negativespace-money.jpg" -->
-<span class="ref">30</span>
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not;
 
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
+
+[1 Corinthians 7:30 (NIV)](# "ref")
 
 >>>
 1. **relationships** subordinate
@@ -287,13 +292,13 @@ as if it were not theirs to **keep**;
   + *keep*: **possess**, hold onto
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
-
-<span class="ref">31</span>
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
 For this **world** in its present form is **passing away**.
+
+[1 Corinthians 7:31 (NIV)](# "ref")
 
 >>>
 + **use**, deal with, engage
@@ -304,27 +309,28 @@ For this **world** in its present form is **passing away**.
   + pattern, habit, manner
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Have I yielded my **relationships**, **emotions**, and **finances**
 # to God's authority?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-MMylZHPsO2I-walk_trestle_forest.jpg" -->
-
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 ## Singleness in the End Times
-1. Contented <span class="ref">(v25-28)</span>
-1. Having But Not Holding <span class="ref">(v29-31)</span>
-1. **Undivided** <span class="ref">(v32-35)</span>
+1. Contented [(v25-28)](# "ref")
+1. Having But Not Holding [(v29-31)](# "ref")
+1. **Undivided** [(v32-35)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pexels-16013-edson-light_road.jpg" -->
+<!-- .slide: <%= bg("pexels-16013-edson-light_road.jpg") %> -->
 
-<span class="ref">28</span>
+[28](# "ref")
 Those who **marry** <br/>
 will face **many troubles** in this life [...]
 
-<span class="ref">32</span>
+[32](# "ref")
 I would like you to be **free from concern**.
+
+[1 Corinthians 7:28, 32 (NIV)](# "ref")
 
 >>>
 + *concern* (ἀμερίμνους): divided
