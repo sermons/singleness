@@ -230,8 +230,7 @@ they were in when God **called** them.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I pursue a <br/> **change** of circumstance
-# or God's **calling**?
+# Am I pursuing God's **calling**, <br> or simply a **change** of circumstance?
 
 >>>
 + while **young** + single:
