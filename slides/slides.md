@@ -6,8 +6,6 @@
 <!-- .slide: data-background="white" -->
 # What does the Bible say to **singles**?
 
-[ ### ](#/outline "secret")
-
 >>>
 + youth: "level up", next **life stage**
   + college, work, marriage, children
@@ -17,7 +15,7 @@
   + these will **disappoint**
 + chase after God: **undivided heart**
 
----
+******
 [25](# "ref")
 Now about **virgins**:
 
@@ -27,7 +25,7 @@ who by the Lord’s mercy is **trustworthy**.
 
 [1 Corinthians 7:25 (NIV) (p.1/8)](# "ref")
 
----
+******
 [26](# "ref")
 Because of the **present crisis**, <br>
 I think that it is good for a man <br>
@@ -42,7 +40,7 @@ Do not **look** for a wife.
 
 [1 Corinthians 7:26-27 (NIV) (p.2/8)](# "ref")
 
----
+******
 [28](# "ref")
 But if you do **marry**, you have **not sinned**; <br/>
 and if a virgin marries, she has not sinned.
@@ -53,7 +51,7 @@ and I want to **spare** you this.
 
 [1 Corinthians 7:28 (NIV) (p.3/8)](# "ref")
 
----
+******
 [29](# "ref")
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
@@ -67,7 +65,7 @@ those who are **happy**, as if they were not;
 
 [1 Corinthians 7:29-30 (NIV) (p.4/8)](# "ref")
 
----
+******
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
@@ -80,7 +78,7 @@ is **passing away**.
 
 [1 Corinthians 7:30-31 (NIV) (p.5/8)](# "ref")
 
----
+******
 [32](# "ref")
 I would like you to be **free from concern**.
 
@@ -97,7 +95,7 @@ and his interests are **divided**.
 
 [1 Corinthians 7:32-34 (NIV) (p.6/8)](# "ref")
 
----
+******
 An **unmarried woman** or virgin <br/>
 is concerned about the **Lord’s affairs**: <br/>
 Her aim is to be **devoted** to the Lord <br/>
@@ -109,7 +107,7 @@ how she can please her **husband**.
 
 [1 Corinthians 7:34 (NIV) (p.7/8)](# "ref")
 
----
+******
 [35](# "ref")
 I am saying this for your **own good**, <br/>
 not to **restrict** you, <br/>
@@ -119,7 +117,7 @@ in **undivided devotion** to the Lord.
 [1 Corinthians 7:35 (NIV) (p.8/8)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> id="outline" class="outline" -->
 ## Singleness in the End Times
 1. **Contented** [(v25-28)](# "ref")
 1. **Having** But Not **Holding** [(v29-31)](# "ref")
