@@ -9,13 +9,16 @@
 # What does the Bible say to **singles**?
 
 >>>
-+ youth: "level up", next **life stage**
-  + college, work, marriage, children
-+ devote yourself to God in the **now**
-  + not the **someday**
++ both the **woefully** single
+  + **wanting** to get married
++ and the **happily** single
+  + today's passage is for you, too
++ underlying principles apply to **all** of us
+  + **married**, seniors, teens
+  + e.g., widowed pastor's wife
 + don't **chase** after bf/gf, marriage, grades, career
   + these will **disappoint**
-+ chase after God: **undivided heart**
++ chase after God w/ **undivided heart**
 
 ******
 [25](# "ref")
