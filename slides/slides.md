@@ -132,11 +132,20 @@ I have no **command** from the Lord
 
 >>>
 + *virgin*: **never-married**
-  + typically F
-  + but here also M
-+ what about **dating**?
+  + what about **dating**?
   + virgin &rarr; **betrothed** &rarr; married
-+  **command** was in *v10*: no **divorce**
++ bright-line **commands**:
+  + v10: no **divorce**
++ but if **no** explicit command,
+  + not "do whatever **I want**"
+  + but pursue **underlying** principles
++ ask God if should **marry** this person:
+  + might not get clear **Y/N**
+  + doesn't mean **go for it**
+  + examine own **motivations**, purpose, commitment
+  + do I know what I'm **getting into**? (nope)
++ so w/o explicit **command**,
+  + what **principles** should we pursue?
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -148,7 +157,7 @@ who by the Lord’s mercy is **trustworthy**.
 >>>
 + *judgment* (γνώμην): **knowledge**, counsel
 + *trustworthy* (πιστὸς): **faithful**
-+ ask counsel from trusted **pastor**
++ counsel from trusted **pastor**
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
@@ -170,20 +179,19 @@ Because of the **present crisis**
 [26](# "ref")
 It is good for a man to **remain** as he is.
 
-[...]
 [27](# "ref")
 Do not **look** for a wife.
 
-[1 Corinthians 7:26-27 (NIV)](# "ref")
+[1 Corinthians 7:26,27 (NIV)](# "ref")
 
 >>>
-+ v2-4 **marriage** has its value:
-  + **tesimony** against prevalent **immorality**
-  + mutual **service** (duty)
-  + and **submission** (authority)
++ v2-4 **marriage** has value as **testimony**:
+  + **purity**: vs prevalent immorality
+  + **duty**: mutual service
+  + **authority**: mutual submission
 + Paul's **counsel** to singles:
 + recognize **good** in current calling
-+ not **seeking** to be married
++ don't **seek** to be married
 
 ---
 <!-- .slide: <%= bg("unsplash-8MbdD0pHXGY-italy_mtn.jpg") %> -->
@@ -224,7 +232,7 @@ they were in when God **called** them.
   + but **calling** (purpose, role)
   + determined by **God**
 + contentment != **laziness**:
-	+ *19* keeping **commands** of God
+  + *19* keeping **commands** of God
 
 ---
 <!-- .slide: data-background="white" -->
@@ -238,7 +246,7 @@ they were in when God **called** them.
   + **preparation**: character, patience
 
 ---
-<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> class="outline" -->
 ## Singleness in the End Times
 1. Contented [(v25-28)](# "ref")
 1. **Having But Not Holding** [(v29-31)](# "ref")
@@ -247,6 +255,10 @@ they were in when God **called** them.
 >>>
 + be **happy** in God's calling
 + not **comfortable** in this world!
++ three areas that must be **subordinate** to God:
+  + **relationships**
+  + **emotions**
+  + **finances**
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
@@ -293,23 +305,57 @@ and **follow me** is not worthy of me.
   + &rArr; true love honours **God** first
 
 ---
-<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 those who **mourn**, as if they did not; <br/>
-those who are **happy**, as if they were not;
+those who are **happy**, as if they were not
 
+[1 Corinthians 7:30a (NIV)](# "ref")
+
+>>>
++ 1. **relationships** subordinate
++ 2. **emotions**:
+  + *mourn*: **cry**
+  + *happy*: **rejoice**
++ school form: "when I am **stressed**, ..."
++ what **habits** do I fall into 
+  + when I am **overwhelmed**?
+  + **happy**?
++ remember James 5:
+
+---
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
+Is anyone among you in **trouble**? <br>
+Let them **pray**. Is anyone **happy**?<br>
+Let them sing **songs** of praise.
+
+[James 5:13 (NIV)](# "ref")
+
+>>>
++ turn to God in **prayer**
++ in **all** occasions
++ with full force of all our **emotions**
++ 1. submit relationships
+  + 2. emotions
+  + 3. **finances**:
+
+---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
-[1 Corinthians 7:30 (NIV)](# "ref")
+[1 Corinthians 7:30b (NIV)](# "ref")
 
 >>>
-1. **relationships** subordinate
-2. **emotions**:
-  + *mourn*: **cry**
-  + *happy*: **rejoice**
-3. **finances**:
-  + **buy**
-  + *keep*: **possess**, hold onto
++ **stress** reveals fractures in relationship
+  + stress of **newborn**
+  + stress of **parental** illness/death
+  + stress of **finances**, job loss/change
++ battle over **"my"** money vs "yours"
+  + **"breadwinner"** vs "deadweight"
+  + what to **splurge** on vs what to **save** on
++ Godly **attitude** to money is for **all** of us
+  + start **before** you get married
++ *keep*: **possess**, hold onto
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -323,11 +369,11 @@ is passing away.
 
 >>>
 + **use**, deal with, engage
-  + necessity to live in world
-+ *engrossed*: **use** to **full**
-  + make full use of, as own, consumed
+  + **necessity** to live in world
++ *engrossed*: use to **full**
+  + make full use of, as own, **consumed**
 + the **schema** of this world
-  + pattern, habit, manner
+  + **pattern**, habit, manner
 
 ---
 <!-- .slide: data-background="white" -->
@@ -338,7 +384,7 @@ is passing away.
 + **urgency** + focus on gospel
 
 ---
-<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> class="outline" -->
 ## Singleness in the End Times
 1. Contented [(v25-28)](# "ref")
 1. Having But Not Holding [(v29-31)](# "ref")
