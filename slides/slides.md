@@ -2,6 +2,8 @@
 # Singleness in <br/> the End Times
 ## 1 Corinthians 7:25-35
 
+[Mika Matin. Tennessee, US](https://unsplash.com/photos/MMylZHPsO2I "caption")
+
 ---
 <!-- .slide: data-background="white" -->
 # What does the Bible say to **singles**?
@@ -129,6 +131,7 @@ Now about **virgins**, <br/>
 I have no **command** from the Lord
 
 [1 Corinthians 7:25 (NIV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/c333d6YEhi0 "caption")
 
 >>>
 + *virgin*: **never-married**
@@ -153,6 +156,7 @@ but I give a **judgment** as one <br/>
 who by the Lord’s mercy is **trustworthy**.
 
 [1 Corinthians 7:25 (NIV)](# "ref")
+[Cassidy Kelley. Cleveland, US](https://unsplash.com/photos/p90szoOBYgk "caption")
 
 >>>
 + *judgment* (γνώμην): **knowledge**, counsel
@@ -164,6 +168,7 @@ who by the Lord’s mercy is **trustworthy**.
 Because of the **present crisis**
 
 [1 Corinthians 7:26 (NIV)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
 + *crisis* (ἀνάγκην): compressed, constrained
@@ -183,6 +188,7 @@ It is good for a man to **remain** as he is.
 Do not **look** for a wife.
 
 [1 Corinthians 7:26,27 (NIV)](# "ref")
+[Jon Flobrant](https://unsplash.com/photos/NEgEJmN3JZo "caption")
 
 >>>
 + v2-4 **marriage** has value as **testimony**:
@@ -201,6 +207,7 @@ the Lord has **assigned** to them, <br/>
 just as God has **called** them.
 
 [1 Corinthians 7:17 (NIV)](# "ref")
+[Dolomites, Italy. Joshua Earle](https://unsplash.com/photos/8MbdD0pHXGY "caption")
 
 >>>
 + to each as the Lord **apportioned**,
@@ -220,6 +227,7 @@ Each person should **remain** in the **situation** <br/>
 they were in when God **called** them.
 
 [1 Corinthians 7:20 (NIV)](# "ref")
+[Venray, Netherlands. Michael Coury](https://unsplash.com/photos/DiKkJKvDi64 "caption")
 
 >>>
 + leading cause of **affairs**:
@@ -279,6 +287,7 @@ From now on those who **have** wives <br/>
 should live as if they **do not**;
 
 [1 Corinthians 7:29 (NIV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + not **neglecting** relationships
@@ -310,6 +319,7 @@ those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not
 
 [1 Corinthians 7:30a (NIV)](# "ref")
+[Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
 
 >>>
 + 1. **relationships** subordinate
@@ -329,6 +339,7 @@ Let them **pray**. Is anyone **happy**?<br>
 Let them sing **songs** of praise.
 
 [James 5:13 (NIV)](# "ref")
+[Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
 
 >>>
 + turn to God in **prayer**
@@ -366,6 +377,7 @@ For this **world** in its present **form** <br>
 is passing away.
 
 [1 Corinthians 7:31 (NIV)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
 + **use**, deal with, engage
@@ -406,6 +418,7 @@ will face **many troubles** in this life [...]
 I would like you to be **free from concern**.
 
 [1 Corinthians 7:28, 32 (NIV)](# "ref")
+[Wilmer Edson](https://www.pexels.com/photo/light-road-dark-sun-16013/ "caption")
 
 >>>
 + *concern* (ἀμερίμνους): divided
@@ -421,6 +434,7 @@ how he can please his **wife** — <br/>
 and his interests are **divided**.
 
 [1 Corinthians 7:33-34 (NIV)](# "ref")
+[Jens Lelie](https://unsplash.com/photos/u0vgcIOQG08 "caption")
 
 >>>
 + Not **condemnation**
@@ -441,6 +455,7 @@ Her aim is to be **devoted** to the Lord <br/>
 in both **body** and **spirit**.
 
 [1 Corinthians 7:32,34 (NIV)](# "ref")
+[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
 
 >>>
 + *devoted*: **holy**
@@ -454,6 +469,7 @@ not using your freedom as a **cover-up** for evil,
 but living as **servants** of God.
 
 [1 Peter 2:16 (ESV)](# "ref")
+[Alex Woods](https://unsplash.com/photos/pZVi92S-ZMs "caption")
 
 >>>
 + single: **time** to reflect, pray
@@ -471,6 +487,7 @@ but that you may live in a **right** way <br/>
 in **undivided devotion** to the Lord.
 
 [1 Corinthians 7:35 (NIV)](# "ref")
+[Plattenkogel, Gemeinde Krimml, Austria. <br> Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
 + *restrict* (): **burden**
