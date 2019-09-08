@@ -32,7 +32,7 @@
         "venue": "Fujian Evangelical Church",
         "city": "Richmond",
         "date": "2019-09-08",
-        "duration": 0
+        "duration": [42, 56]
       },
       {
         "venue": "Pacific Grace Mandarin Church",
