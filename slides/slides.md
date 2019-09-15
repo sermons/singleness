@@ -4,6 +4,13 @@
 
 [Mika Matin. Tennessee, US](https://unsplash.com/photos/MMylZHPsO2I "caption")
 
+>>>
++ how much of our lives is spent
+  + **waiting** to get to the next level
++ grad, job, "real" job, bf/gf, married, kid
++ our lives are happening **right now**
+  + God has a **calling** for this stage
+
 ---
 <!-- .slide: data-background="white" -->
 # What does the Bible say to **singles**?
@@ -236,12 +243,12 @@ they were in when God **called** them.
 + leading cause of **affairs**:
   + not **complaint** about spouse, but
   + **dissatisfaction** w/own life
-+ each, in the **calling**
-  + with which they were **called**,
-  + in this **remain**
 + not "**situation**" (environ, abuse)
   + but **calling** (purpose, role)
   + determined by **God**
++ each, in the **calling**
+  + with which they were **called**,
+  + in this **remain**
 + contentment != **laziness**:
   + *19* keeping **commands** of God
 
@@ -255,6 +262,7 @@ they were in when God **called** them.
   + be **happy** with it
 + not doing **great** things for God
   + **preparation**: character, patience
+  + learning to **submit** every part of life to God
 
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> class="outline" -->
