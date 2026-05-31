@@ -13,7 +13,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What does the Bible say to **singles**?
+# What does <br/> the Bible say <br/> to **singles**?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + both the **woefully** single
@@ -153,7 +154,8 @@ they were in when God **called** them.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I pursuing God's **calling**, <br> or simply a **change** of circumstance?
+# Am I pursuing <br/> God's **calling**, <br> or simply a **change** <br/> of circumstance?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + while **young** + single:
@@ -299,7 +301,8 @@ is passing away.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I yielded my **relationships**, **emotions**, and **finances** to God's authority?
+# Have I yielded <br/> my **relationships**, <br/> **emotions**, and **finances** <br/> to God's authority?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **imminence** of Christ's return
@@ -322,7 +325,7 @@ is passing away.
 <!-- .slide: <%= bg("pexels-16013-edson-light_road.jpg") %> -->
 [28](# "ref")
 Those who **marry** <br/>
-will face **many troubles** in this life [...]
+will face **many troubles** in this life
 
 [32](# "ref")
 I would like you to be **free from concern**.
@@ -359,7 +362,6 @@ An **unmarried** man is concerned about <br/>
 the **Lord’s** affairs — <br>
 how he can **please** the Lord.
 
-[...]
 [34](# "ref")
 Her aim is to be **devoted** to the Lord <br/>
 in both **body** and **spirit**.
@@ -410,7 +412,8 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **undistracted** <br/> in **devotion** to Christ, **holy** in body and spirit?
+# Am I **undistracted** <br/> in **devotion** to Christ, <br/> **holy** in body and spirit?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **sit** at His feet
@@ -418,14 +421,12 @@ in **undivided devotion** to the Lord.
 
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
-[29](# "ref")
 What I mean, brothers and sisters, <br/>
 is that the **time is short**.
 
 From now on those who **have** wives <br/>
 should live as if they **do not**;
 
-[30](# "ref")
 those who **mourn**, as if they did not; <br/>
 those who are **happy**, as if they were not;
 
@@ -436,7 +437,6 @@ those who are **happy**, as if they were not;
 those who **buy** something, <br/>
 as if it were not theirs to **keep**;
 
-[31](# "ref")
 those who **use** the things of the world, <br/>
 as if not **engrossed** in them.
 
